@@ -3,7 +3,9 @@ Proyectos de Tecnología (Desarrollo Web, IA, Análisis de Datos, etc.)
 # 👋 Hola, soy Itzel Juárez
 
 🎓 Estudiante de Inteligencia Artificial  
-💻 Interesada en Machine Learning, Data Science y Desarrollo Web  
+💻 Interesada en Machine Learning, Data Science y Desarrollo Web
+
+Me encuentro en constante aprendizaje
 
 ---
 ### Tecnologías y herramientas
