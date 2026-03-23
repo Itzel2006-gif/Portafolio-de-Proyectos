@@ -13,7 +13,8 @@ Me encuentro en constante aprendizaje
 - HTML, CSS  
 - MySQL / MariaDB  
 - Machine Learning (Regresión, KNN, Clasificación, Clustering)  
-- Airtable, Zapier,   
+- Airtable, Zapier
+- Figma  
 - XAMPP, Orange  
 
 ### Proyectos
